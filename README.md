@@ -147,4 +147,3 @@ The analysis reveals the influence of parental education and weekly study hours 
 
 ---
 
-Let me know if you'd like to make any adjustments to this file!
